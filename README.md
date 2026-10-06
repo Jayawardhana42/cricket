@@ -1,3 +1,5 @@
+```python
+
 class CricketMatch:
     def __init__(self, batting_team, bowling_team):
         self.batting_team = batting_team
